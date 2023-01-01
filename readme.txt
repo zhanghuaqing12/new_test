@@ -5,3 +5,4 @@ distruction.
 Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
+Git connects with github.
